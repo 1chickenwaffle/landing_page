@@ -128,8 +128,8 @@ button {
     background-color: #3882F6;
     color:#E9FAF8;
     font-size: medium;
-    padding: 2% 15%;
-    margin: 5% 10%;
+    padding: 3% 5%;
+    margin: 5% 15%;
     border-radius: 5px;
 }
 
@@ -139,6 +139,7 @@ button {
 
 .store-name{
     padding-bottom: 10px;
+    font-weight: 700;
 }
 
 .container5-right {
@@ -156,7 +157,8 @@ button {
 
 footer{
     text-align: center;
-    padding:50px;
+    padding-top:30px;
+    padding-bottom: 30px;
     color: #E9FAF8;
-    font-size: 20px;
+    font-size: 18px;
 }
